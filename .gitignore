@@ -1,0 +1,15 @@
+# Dataset and extracted images
+deepfake_dataset/
+dataset/
+*.mp4
+*.jpg
+*.png
+
+# Python & Environment
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Model checkpoints (optional to ignore if uploading model via Git LFS or external links)
+# deepfake_detector_model.h5
